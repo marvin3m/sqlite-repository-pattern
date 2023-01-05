@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNuvem.Mobile.Data", "XNuvem.Mobile.Data\XNuvem.Mobile.Data.csproj", "{22A1A194-53FC-4F7D-8C42-BFD83121C86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNuvem.Todo", "XNuvem.Todo\XNuvem.Todo.csproj", "{2B3450B6-CA12-49FB-BDC3-FC1DB3997C06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A1A194-53FC-4F7D-8C42-BFD83121C86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A1A194-53FC-4F7D-8C42-BFD83121C86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A1A194-53FC-4F7D-8C42-BFD83121C86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A1A194-53FC-4F7D-8C42-BFD83121C86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3450B6-CA12-49FB-BDC3-FC1DB3997C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3450B6-CA12-49FB-BDC3-FC1DB3997C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3450B6-CA12-49FB-BDC3-FC1DB3997C06}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2B3450B6-CA12-49FB-BDC3-FC1DB3997C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3450B6-CA12-49FB-BDC3-FC1DB3997C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3450B6-CA12-49FB-BDC3-FC1DB3997C06}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5CA3C38-F4D9-4E1C-8E13-F5B2E33F1630}
+	EndGlobalSection
+EndGlobal
